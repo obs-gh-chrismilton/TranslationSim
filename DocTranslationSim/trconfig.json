@@ -1,7 +1,7 @@
 {
     "desired_path": "/Users/chris.milton/Applications/DocTranslationSim/",
-    "http_endpoint": "https://153283189978.collect.observeinc.com/v1/http",
-    "auth_token": "ds1mabFTvi6A5tCdPoxp:pchT17RmBDLLkQWEbUgQdXgHVMRty5la",
+    "http_endpoint": "https://YOURENVIRONMENTID.collect.observeinc.com/v1/http",
+    "auth_token": "YOUR API TOKEN",
     "log_file_name": "parallel_translation_simulation.log",
     "max_processing_times": {
       "Document Upload": 30, 
